@@ -1,0 +1,26 @@
+     header{
+        text-align: center;
+        color: white;
+        background-color: aqua;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    nav ul {
+        padding: 0px;
+
+    }
+
+    nav ul li{
+        display: inline;
+        padding-right: 10px;
+
+
+    }
+
+    nav ul li a{
+        border: 1px solid coral;
+        padding: 5px 10px;
+        color: white;
+        border-radius: 5px;
+    }
